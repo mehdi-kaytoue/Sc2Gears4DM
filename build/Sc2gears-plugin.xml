@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plugin docVersion="1.0">
+	<name>Sc2ExhaustiveExport</name>
+	<authorFirstName>Guillaume</authorFirstName>
+	<authorLastName>Bosc</authorLastName>
+	<authorEmail>guillaumebosc@insa-lyon.fr</authorEmail>
+	<version>1.0</version>
+	<releaseDate>2013-07-17</releaseDate>
+	<apiVersion>4.2</apiVersion>
+	<homePage></homePage>
+	<description isHtml="true"><![CDATA[
+		<p>Generate exhaustive information from selected replay(s)</p>
+	]]></description>
+	<mainClass>Sc2ExhaustiveExport</mainClass>
+</plugin>
